@@ -17,4 +17,4 @@ jobs:
       uses: docker/build-push-action@v7
       with:
         push: true
-        tabs: pruthvis02/ci-demo:latest
+        tags: pruthvis02/ci-demo:latest
